@@ -21,10 +21,10 @@
 
 
 ## Technical Challenges
-**Building a Neural Network and Set High Frequency Trading System improving The Performance**.
-**Use GRU instead of LSTM to improve efficiency of the Network**
-**Live Data Pipeline for this work**.
-**Train The Model on Existing Data and Predict without Live Data Pipeline**.
+* Building a Neural Network and Set High Frequency Trading System improving The Performance.
+* Use GRU instead of LSTM to improve efficiency of the Network
+* Live Data Pipeline for this work.
+* Train The Model on Existing Data and Predict without Live Data Pipeline.
 
 
 ## Aim
