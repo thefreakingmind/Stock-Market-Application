@@ -6,10 +6,10 @@
 **Stock Market works on the basic principal of investing at right time and get a good return**
 
 ## Libraries Used
-**Numpy**
-**Pandas**
-**Tensorflow**
-**Matplotlib**
+* Numpy
+* Pandas
+* Tensorflow
+* Matplotlib
 
 
 ## Tasks
