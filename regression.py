@@ -19,8 +19,6 @@ forcast_out = int(math.ceil(0.1*(len(df))))
 df['label'] = df[forcast_column].shift(-forcast_out)
 df.dropna(inplace=True)
 print(df)
-plt.plot(df)
-plt.show()
 
 x = np.array(df.drop(['label'],1))
 y = np.array(df['label'])
