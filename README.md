@@ -21,28 +21,6 @@ Stock Market works on the basic principal of investing at right time and get a g
 ## Result
 * Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
 * Neural Network is a better Algorithm for Predicting Better Output
-## Result
-* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
-* Neural Network is a better Algorithm for Predicting Better Output
-## Result
-* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
-* Neural Network is a better Algorithm for Predicting Better Output
-## Result
-* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
-* Neural Network is a better Algorithm for Predicting Better Output
-## Result
-* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
-* Neural Network is a better Algorithm for Predicting Better Output
-## Result
-* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
-* Neural Network is a better Algorithm for Predicting Better Output
-## Result
-* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
-* Neural Network is a better Algorithm for Predicting Better Output
-## Result
-* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
-* Neural Network is a better Algorithm for Predicting Better Output
-
 
 ## Technical Challenges
 * Building a Neural Network and Set High Frequency Trading System improving The Performance.
