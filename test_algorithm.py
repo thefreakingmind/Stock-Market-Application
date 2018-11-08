@@ -8,7 +8,7 @@ import math
 from sklearn import *
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
-
+from sklearn.mixture import GaussianMixture
 
 # Google Dataset for Test
 df = q.get('WIKI/GOOGL')
@@ -34,6 +34,10 @@ accuracy = linear_regression.score(x_test, y_test)
 svm = svm.SVR()
 svm.fit(x_train, y_train)
 new_acc = svm.score(x_test, y_test)
+gmm = GaussianMixture(n_components=3, covariance_type='diag')
+gmm.fit(x_train, y_train)
+score = gmm.score(x_test, y_test)
+print("Score for GMM is",score)
 print("Accuracy of Support Vector Machine", new_acc)
 print("Accuracy of Linear Regression",  accuracy)
 

@@ -18,6 +18,30 @@ Stock Market works on the basic principal of investing at right time and get a g
 * Removing The Nan Values and Later will use Sklearn library to Compute the mean and will replace those.
 * Creating the Basic Linear Regression Model.
 
+## Result
+* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
+* Neural Network is a better Algorithm for Predicting Better Output
+## Result
+* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
+* Neural Network is a better Algorithm for Predicting Better Output
+## Result
+* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
+* Neural Network is a better Algorithm for Predicting Better Output
+## Result
+* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
+* Neural Network is a better Algorithm for Predicting Better Output
+## Result
+* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
+* Neural Network is a better Algorithm for Predicting Better Output
+## Result
+* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
+* Neural Network is a better Algorithm for Predicting Better Output
+## Result
+* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
+* Neural Network is a better Algorithm for Predicting Better Output
+## Result
+* Tested 3 Machine Learning Algorithm, Found that accuracy is quite low for all of them.
+* Neural Network is a better Algorithm for Predicting Better Output
 
 
 ## Technical Challenges
